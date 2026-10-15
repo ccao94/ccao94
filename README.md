@@ -10,8 +10,7 @@
   <p><i>Looking for a 12-month apprenticeship from November 2026, full time from March 2027.</i></p>
 
   <p>
-    <!-- Replace this link with your Vercel URL once the portfolio is deployed -->
-    <a href="https://github.com/ccao94/portfolio"><img src="https://img.shields.io/badge/Portfolio-2f4a37?style=for-the-badge&logo=vercel&logoColor=f3efe6" alt="Portfolio"/></a>
+    <a href="https://cao-cuong-cao.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2f4a37?style=for-the-badge&logo=vercel&logoColor=f3efe6" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/cao-cuong-cao/"><img src="https://img.shields.io/badge/LinkedIn-2f4a37?style=for-the-badge&logo=linkedin&logoColor=f3efe6" alt="LinkedIn"/></a>
     <a href="mailto:cao.cao@efrei.net"><img src="https://img.shields.io/badge/Email-2f4a37?style=for-the-badge&logo=gmail&logoColor=f3efe6" alt="Email"/></a>
   </p>
@@ -122,3 +121,14 @@
 - **EFREI Paris Panthéon-Assas**, engineering degree, Software Engineering major (2024 to 2027), including a 4-month exchange at Concordia University, Montreal
 - **CPGE ATS**, industrial engineering, Lycée Robert Doisneau (2023 to 2024)
 - **DUT Mesures Physiques**, IUT d'Orsay, Université Paris-Saclay (2020 to 2023)
+
+<h2>GitHub activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccao94&bg_color=0e100e&color=a9c49a&line=4a6741&point=f3efe6&area=true&area_color=2f4a37&title_color=f3efe6&hide_border=true&radius=12&custom_title=Contribution%20activity" alt="Contribution activity" width="100%"/>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ccao94/ccao94/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ccao94/ccao94/output/github-snake.svg" alt="Contribution snake" width="100%"/>
+  </picture>
+</div>
